@@ -32,7 +32,6 @@ After setting up the project, run the CLI script to access the menu. You can man
 
 - `sql_scripts/`: Contains the SQL script to set up the PostgreSQL database.
 - `cli_functions/`: Contains the Python script for CLI-based functionalities.
-- `docs/`: Contains the project documentation, including detailed instructions and examples.
 - `csv_files/`: Contains CSV files used to fill the tables
 
 ## Additional Notes
