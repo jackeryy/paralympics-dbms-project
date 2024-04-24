@@ -21,7 +21,7 @@ To populate the database, you need to import several CSV files. Follow these ste
 
 ## Usage Instructions
 
-After setting up the project, run the CLI script to access the menu. You can manage athletes, view medal records, and gain insights into various disciplines. Below is a brief explanation of the CLI menu options:
+This CLI interface can be setup by installing Postgres into your environment. From here you will be able to access pgAdmin4 that we will use to set up our database. We will create our tables using the SQL queries used in the GitHub repository. From here, we will use Python to create our CLI interface. To connect our database to our python file, we are going to need to use psycopg2 library. This will allow us to connect to our database and make changes through our cursor.
 
 - **Manage Athletes**: Add, update, remove, or view athletes.
 - **Medal Records**: View medal counts by type, top athletes, and medal records for individual athletes.
@@ -31,7 +31,7 @@ After setting up the project, run the CLI script to access the menu. You can man
 ## Folder Structure
 
 - `sql_scripts/`: Contains the SQL script to set up the PostgreSQL database.
-- `cli_functions/`: Contains the Python script for CLI-based functionalities.
+- `cli_functions/`: Contains the Python script for CLI-based functionalities. (Make sure to update database information as necessary)
 - `csv_files/`: Contains CSV files used to fill the tables
 
 ## Additional Notes
