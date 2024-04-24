@@ -26,11 +26,12 @@ After setting up the project, run the CLI script to access the menu. You can man
 - **Manage Athletes**: Add, update, remove, or view athletes.
 - **Medal Records**: View medal counts by type, top athletes, and medal records for individual athletes.
 - **Discipline Insights**: View aggregate statistics, medalling athletes for a discipline, and discipline performance.
+- **View Participating NPCS**: Displays all NPCs participating in the 2020 Tokyo Paralympics.
 
 ## Folder Structure
 
-- `sql_scripts/`: Contains the SQL scripts to set up the PostgreSQL database.
-- `cli_functions/`: Contains the Python scripts for CLI-based functionalities.
+- `sql_scripts/`: Contains the SQL script to set up the PostgreSQL database.
+- `cli_functions/`: Contains the Python script for CLI-based functionalities.
 - `docs/`: Contains the project documentation, including detailed instructions and examples.
 - 'csv_files/': Contains CSV files used to fill the tables
 
