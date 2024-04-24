@@ -1,0 +1,213 @@
+Team,Country,CountryCode,Sport,Sport-code,Event
+Australia,Australia,AUS,Archery,ARC,Mixed Team Recurve - Open
+Brazil,Brazil,BRA,Archery,ARC,Mixed Team - W1
+Brazil,Brazil,BRA,Archery,ARC,Mixed Team Compound - Open
+Brazil,Brazil,BRA,Archery,ARC,Mixed Team Recurve - Open
+China,People's Republic of China,CHN,Archery,ARC,Mixed Team - W1
+China,People's Republic of China,CHN,Archery,ARC,Mixed Team Compound - Open
+China,People's Republic of China,CHN,Archery,ARC,Mixed Team Recurve - Open
+Czech Republic,Czech Republic,CZE,Archery,ARC,Mixed Team - W1
+France,France,FRA,Archery,ARC,Mixed Team Compound - Open
+Great Britain,Great Britain,GBR,Archery,ARC,Mixed Team Compound - Open
+Great Britain,Great Britain,GBR,Archery,ARC,Mixed Team Recurve - Open
+India,India,IND,Archery,ARC,Mixed Team Compound - Open
+Islamic Rep. of Iran,Islamic Republic of Iran,IRI,Archery,ARC,Mixed Team Compound - Open
+Islamic Rep. of Iran,Islamic Republic of Iran,IRI,Archery,ARC,Mixed Team Recurve - Open
+Italy,Italy,ITA,Archery,ARC,Mixed Team Compound - Open
+Italy,Italy,ITA,Archery,ARC,Mixed Team Recurve - Open
+Japan,Japan,JPN,Archery,ARC,Mixed Team - W1
+Japan,Japan,JPN,Archery,ARC,Mixed Team Compound - Open
+Japan,Japan,JPN,Archery,ARC,Mixed Team Recurve - Open
+Mongolia,Mongolia,MGL,Archery,ARC,Mixed Team Recurve - Open
+Poland,Poland,POL,Archery,ARC,Mixed Team Recurve - Open
+Republic of Korea,Republic of Korea,KOR,Archery,ARC,Mixed Team - W1
+Republic of Korea,Republic of Korea,KOR,Archery,ARC,Mixed Team Recurve - Open
+RPC,RPC,RPC,Archery,ARC,Mixed Team - W1
+RPC,RPC,RPC,Archery,ARC,Mixed Team Compound - Open
+RPC,RPC,RPC,Archery,ARC,Mixed Team Recurve - Open
+Thailand,Thailand,THA,Archery,ARC,Mixed Team Compound - Open
+Thailand,Thailand,THA,Archery,ARC,Mixed Team Recurve - Open
+Turkey,Turkey,TUR,Archery,ARC,Mixed Team - W1
+Turkey,Turkey,TUR,Archery,ARC,Mixed Team Compound - Open
+Turkey,Turkey,TUR,Archery,ARC,Mixed Team Recurve - Open
+United States,United States of America,USA,Archery,ARC,Mixed Team Recurve - Open
+Brazil,Brazil,BRA,Athletics,ATH,4x100m Universal Relay
+Canada,Canada,CAN,Athletics,ATH,4x100m Universal Relay
+People's Republic of China,People's Republic of China,CHN,Athletics,ATH,4x100m Universal Relay
+France,France,FRA,Athletics,ATH,4x100m Universal Relay
+Germany,Germany,GER,Athletics,ATH,4x100m Universal Relay
+Great Britain,Great Britain,GBR,Athletics,ATH,4x100m Universal Relay
+Indonesia,Indonesia,INA,Athletics,ATH,4x100m Universal Relay
+Japan,Japan,JPN,Athletics,ATH,4x100m Universal Relay
+RPC,RPC,RPC,Athletics,ATH,4x100m Universal Relay
+United States of America,United States of America,USA,Athletics,ATH,4x100m Universal Relay
+Argentina,Argentina,ARG,Boccia,BOC,Team - BC1/BC2
+Australia,Australia,AUS,Boccia,BOC,Pairs - BC3
+Brazil,Brazil,BRA,Boccia,BOC,Pairs - BC3
+Brazil,Brazil,BRA,Boccia,BOC,Pairs - BC4
+Brazil,Brazil,BRA,Boccia,BOC,Team - BC1/BC2
+Canada,Canada,CAN,Boccia,BOC,Pairs - BC4
+China,People's Republic of China,CHN,Boccia,BOC,Team - BC1/BC2
+Colombia,Colombia,COL,Boccia,BOC,Pairs - BC4
+France,France,FRA,Boccia,BOC,Pairs - BC3
+Great Britain,Great Britain,GBR,Boccia,BOC,Pairs - BC3
+Great Britain,Great Britain,GBR,Boccia,BOC,Pairs - BC4
+Great Britain,Great Britain,GBR,Boccia,BOC,Team - BC1/BC2
+Greece,Greece,GRE,Boccia,BOC,Pairs - BC3
+"Hong Kong, China","Hong Kong, China",HKG,Boccia,BOC,Pairs - BC3
+"Hong Kong, China","Hong Kong, China",HKG,Boccia,BOC,Pairs - BC4
+Japan,Japan,JPN,Boccia,BOC,Pairs - BC3
+Japan,Japan,JPN,Boccia,BOC,Pairs - BC4
+Japan,Japan,JPN,Boccia,BOC,Team - BC1/BC2
+Portugal,Portugal,POR,Boccia,BOC,Pairs - BC3
+Portugal,Portugal,POR,Boccia,BOC,Pairs - BC4
+Portugal,Portugal,POR,Boccia,BOC,Team - BC1/BC2
+Republic of Korea,Republic of Korea,KOR,Boccia,BOC,Pairs - BC3
+Republic of Korea,Republic of Korea,KOR,Boccia,BOC,Team - BC1/BC2
+RPC,RPC,RPC,Boccia,BOC,Pairs - BC4
+RPC,RPC,RPC,Boccia,BOC,Team - BC1/BC2
+Slovakia,Slovakia,SVK,Boccia,BOC,Pairs - BC4
+Slovakia,Slovakia,SVK,Boccia,BOC,Team - BC1/BC2
+Thailand,Thailand,THA,Boccia,BOC,Pairs - BC3
+Thailand,Thailand,THA,Boccia,BOC,Pairs - BC4
+Thailand,Thailand,THA,Boccia,BOC,Team - BC1/BC2
+Australia,Australia,AUS,Cycling Track,CTR,Mixed C1-5 750m Team Sprint
+People's Republic of China,People's Republic of China,CHN,Cycling Track,CTR,Mixed C1-5 750m Team Sprint
+Colombia,Colombia,COL,Cycling Track,CTR,Mixed C1-5 750m Team Sprint
+France,France,FRA,Cycling Track,CTR,Mixed C1-5 750m Team Sprint
+Great Britain,Great Britain,GBR,Cycling Track,CTR,Mixed C1-5 750m Team Sprint
+Malaysia,Malaysia,MAS,Cycling Track,CTR,Mixed C1-5 750m Team Sprint
+RPC,RPC,RPC,Cycling Track,CTR,Mixed C1-5 750m Team Sprint
+Spain,Spain,ESP,Cycling Track,CTR,Mixed C1-5 750m Team Sprint
+United States of America,United States of America,USA,Cycling Track,CTR,Mixed C1-5 750m Team Sprint
+Argentina,Argentina,ARG,Football 5-a-side,FB5,Men
+Brazil,Brazil,BRA,Football 5-a-side,FB5,Men
+China,People's Republic of China,CHN,Football 5-a-side,FB5,Men
+France,France,FRA,Football 5-a-side,FB5,Men
+Japan,Japan,JPN,Football 5-a-side,FB5,Men
+Morocco,Morocco,MAR,Football 5-a-side,FB5,Men
+Spain,Spain,ESP,Football 5-a-side,FB5,Men
+Thailand,Thailand,THA,Football 5-a-side,FB5,Men
+Algeria,Algeria,ALG,Goalball,GBL,Men
+Australia,Australia,AUS,Goalball,GBL,Women
+Belgium,Belgium,BEL,Goalball,GBL,Men
+Brazil,Brazil,BRA,Goalball,GBL,Men
+Brazil,Brazil,BRA,Goalball,GBL,Women
+Canada,Canada,CAN,Goalball,GBL,Women
+China,People's Republic of China,CHN,Goalball,GBL,Men
+China,People's Republic of China,CHN,Goalball,GBL,Women
+Egypt,Egypt,EGY,Goalball,GBL,Women
+Germany,Germany,GER,Goalball,GBL,Men
+Israel,Israel,ISR,Goalball,GBL,Women
+Japan,Japan,JPN,Goalball,GBL,Men
+Japan,Japan,JPN,Goalball,GBL,Women
+Lithuania,Lithuania,LTU,Goalball,GBL,Men
+RPC,RPC,RPC,Goalball,GBL,Women
+Turkey,Turkey,TUR,Goalball,GBL,Men
+Turkey,Turkey,TUR,Goalball,GBL,Women
+Ukraine,Ukraine,UKR,Goalball,GBL,Men
+United States,United States of America,USA,Goalball,GBL,Men
+United States,United States of America,USA,Goalball,GBL,Women
+Bosnia Herzegovina,Bosnia and Herzegovina,BIH,Sitting Volleyball,VBS,Men
+Brazil,Brazil,BRA,Sitting Volleyball,VBS,Men
+Brazil,Brazil,BRA,Sitting Volleyball,VBS,Women
+Canada,Canada,CAN,Sitting Volleyball,VBS,Women
+China,People's Republic of China,CHN,Sitting Volleyball,VBS,Men
+China,People's Republic of China,CHN,Sitting Volleyball,VBS,Women
+Egypt,Egypt,EGY,Sitting Volleyball,VBS,Men
+Germany,Germany,GER,Sitting Volleyball,VBS,Men
+Islamic Rep. of Iran,Islamic Republic of Iran,IRI,Sitting Volleyball,VBS,Men
+Italy,Italy,ITA,Sitting Volleyball,VBS,Women
+Japan,Japan,JPN,Sitting Volleyball,VBS,Men
+Japan,Japan,JPN,Sitting Volleyball,VBS,Women
+RPC,RPC,RPC,Sitting Volleyball,VBS,Men
+RPC,RPC,RPC,Sitting Volleyball,VBS,Women
+Rwanda,Rwanda,RWA,Sitting Volleyball,VBS,Women
+United States,United States of America,USA,Sitting Volleyball,VBS,Women
+Australia,Australia,AUS,Swimming,SWM,Men's 4x100m Freestyle Relay - 34 Points
+Australia,Australia,AUS,Swimming,SWM,Men's 4x100m Medley Relay - 34 Points
+Australia,Australia,AUS,Swimming,SWM,Mixed 4x100m Freestyle Relay - S14
+Australia,Australia,AUS,Swimming,SWM,Women's 4x100m Freestyle Relay - 34 Pts
+Australia,Australia,AUS,Swimming,SWM,Women's 4x100m Medley Relay - 34 Points
+Brazil,Brazil,BRA,Swimming,SWM,Men's 4x100m Freestyle Relay - 34 Points
+Brazil,Brazil,BRA,Swimming,SWM,Men's 4x100m Medley Relay - 34 Points
+Brazil,Brazil,BRA,Swimming,SWM,Mixed 4x100m Freestyle Relay - 49 Points
+Brazil,Brazil,BRA,Swimming,SWM,Mixed 4x100m Freestyle Relay - S14
+Brazil,Brazil,BRA,Swimming,SWM,Mixed 4x50m Freestyle Relay - 20 Points
+Canada,Canada,CAN,Swimming,SWM,Women's 4x100m Freestyle Relay - 34 Pts
+Canada,Canada,CAN,Swimming,SWM,Women's 4x100m Medley Relay - 34 Points
+China,People's Republic of China,CHN,Swimming,SWM,Men's 4x100m Freestyle Relay - 34 Points
+China,People's Republic of China,CHN,Swimming,SWM,Men's 4x100m Medley Relay - 34 Points
+China,People's Republic of China,CHN,Swimming,SWM,Mixed 4x100m Freestyle Relay - 49 Points
+China,People's Republic of China,CHN,Swimming,SWM,Mixed 4x50m Freestyle Relay - 20 Points
+China,People's Republic of China,CHN,Swimming,SWM,Women's 4x100m Freestyle Relay - 34 Pts
+China,People's Republic of China,CHN,Swimming,SWM,Women's 4x100m Medley Relay - 34 Points
+Colombia,Colombia,COL,Swimming,SWM,Mixed 4x50m Freestyle Relay - 20 Points
+Egypt,Egypt,EGY,Swimming,SWM,Mixed 4x50m Freestyle Relay - 20 Points
+Germany,Germany,GER,Swimming,SWM,Mixed 4x50m Freestyle Relay - 20 Points
+Great Britain,Great Britain,GBR,Swimming,SWM,Mixed 4x100m Freestyle Relay - S14
+Great Britain,Great Britain,GBR,Swimming,SWM,Mixed 4x50m Freestyle Relay - 20 Points
+Great Britain,Great Britain,GBR,Swimming,SWM,Women's 4x100m Freestyle Relay - 34 Pts
+Great Britain,Great Britain,GBR,Swimming,SWM,Women's 4x100m Medley Relay - 34 Points
+Greece,Greece,GRE,Swimming,SWM,Mixed 4x50m Freestyle Relay - 20 Points
+"Hong Kong, China","Hong Kong, China",HKG,Swimming,SWM,Mixed 4x100m Freestyle Relay - S14
+Hungary,Hungary,HUN,Swimming,SWM,Women's 4x100m Freestyle Relay - 34 Pts
+Italy,Italy,ITA,Swimming,SWM,Men's 4x100m Freestyle Relay - 34 Points
+Italy,Italy,ITA,Swimming,SWM,Men's 4x100m Medley Relay - 34 Points
+Italy,Italy,ITA,Swimming,SWM,Mixed 4x50m Freestyle Relay - 20 Points
+Italy,Italy,ITA,Swimming,SWM,Women's 4x100m Freestyle Relay - 34 Pts
+Japan,Japan,JPN,Swimming,SWM,Men's 4x100m Medley Relay - 34 Points
+Japan,Japan,JPN,Swimming,SWM,Mixed 4x100m Freestyle Relay - 49 Points
+Japan,Japan,JPN,Swimming,SWM,Mixed 4x100m Freestyle Relay - S14
+Japan,Japan,JPN,Swimming,SWM,Mixed 4x50m Freestyle Relay - 20 Points
+Netherlands,Netherlands,NED,Swimming,SWM,Men's 4x100m Medley Relay - 34 Points
+RPC,RPC,RPC,Swimming,SWM,Men's 4x100m Freestyle Relay - 34 Points
+RPC,RPC,RPC,Swimming,SWM,Men's 4x100m Medley Relay - 34 Points
+RPC,RPC,RPC,Swimming,SWM,Mixed 4x100m Freestyle Relay - 49 Points
+RPC,RPC,RPC,Swimming,SWM,Mixed 4x100m Freestyle Relay - S14
+RPC,RPC,RPC,Swimming,SWM,Mixed 4x50m Freestyle Relay - 20 Points
+RPC,RPC,RPC,Swimming,SWM,Women's 4x100m Freestyle Relay - 34 Pts
+RPC,RPC,RPC,Swimming,SWM,Women's 4x100m Medley Relay - 34 Points
+Spain,Spain,ESP,Swimming,SWM,Men's 4x100m Freestyle Relay - 34 Points
+Spain,Spain,ESP,Swimming,SWM,Men's 4x100m Medley Relay - 34 Points
+Spain,Spain,ESP,Swimming,SWM,Mixed 4x100m Freestyle Relay - 49 Points
+Spain,Spain,ESP,Swimming,SWM,Mixed 4x50m Freestyle Relay - 20 Points
+Spain,Spain,ESP,Swimming,SWM,Women's 4x100m Medley Relay - 34 Points
+Turkey,Turkey,TUR,Swimming,SWM,Mixed 4x50m Freestyle Relay - 20 Points
+Ukraine,Ukraine,UKR,Swimming,SWM,Men's 4x100m Freestyle Relay - 34 Points
+Ukraine,Ukraine,UKR,Swimming,SWM,Mixed 4x100m Freestyle Relay - 49 Points
+Ukraine,Ukraine,UKR,Swimming,SWM,Mixed 4x50m Freestyle Relay - 20 Points
+United States,United States of America,USA,Swimming,SWM,Men's 4x100m Freestyle Relay - 34 Points
+United States,United States of America,USA,Swimming,SWM,Men's 4x100m Medley Relay - 34 Points
+United States,United States of America,USA,Swimming,SWM,Women's 4x100m Freestyle Relay - 34 Pts
+United States,United States of America,USA,Swimming,SWM,Women's 4x100m Medley Relay - 34 Points
+Algeria,Algeria,ALG,Wheelchair Basketball,WBK,Men
+Algeria,Algeria,ALG,Wheelchair Basketball,WBK,Women
+Australia,Australia,AUS,Wheelchair Basketball,WBK,Men
+Australia,Australia,AUS,Wheelchair Basketball,WBK,Women
+Canada,Canada,CAN,Wheelchair Basketball,WBK,Men
+Canada,Canada,CAN,Wheelchair Basketball,WBK,Women
+China,People's Republic of China,CHN,Wheelchair Basketball,WBK,Women
+Colombia,Colombia,COL,Wheelchair Basketball,WBK,Men
+Germany,Germany,GER,Wheelchair Basketball,WBK,Men
+Germany,Germany,GER,Wheelchair Basketball,WBK,Women
+Great Britain,Great Britain,GBR,Wheelchair Basketball,WBK,Men
+Great Britain,Great Britain,GBR,Wheelchair Basketball,WBK,Women
+Islamic Rep. of Iran,Islamic Republic of Iran,IRI,Wheelchair Basketball,WBK,Men
+Japan,Japan,JPN,Wheelchair Basketball,WBK,Men
+Japan,Japan,JPN,Wheelchair Basketball,WBK,Women
+Netherlands,Netherlands,NED,Wheelchair Basketball,WBK,Women
+Republic of Korea,Republic of Korea,KOR,Wheelchair Basketball,WBK,Men
+Spain,Spain,ESP,Wheelchair Basketball,WBK,Men
+Spain,Spain,ESP,Wheelchair Basketball,WBK,Women
+Turkey,Turkey,TUR,Wheelchair Basketball,WBK,Men
+United States,United States of America,USA,Wheelchair Basketball,WBK,Men
+United States,United States of America,USA,Wheelchair Basketball,WBK,Women
+Australia,Australia,AUS,Wheelchair Rugby,WRU,Mixed
+Canada,Canada,CAN,Wheelchair Rugby,WRU,Mixed
+Denmark,Denmark,DEN,Wheelchair Rugby,WRU,Mixed
+France,France,FRA,Wheelchair Rugby,WRU,Mixed
+Great Britain,Great Britain,GBR,Wheelchair Rugby,WRU,Mixed
+Japan,Japan,JPN,Wheelchair Rugby,WRU,Mixed
+New Zealand,New Zealand,NZL,Wheelchair Rugby,WRU,Mixed
+United States,United States of America,USA,Wheelchair Rugby,WRU,Mixed
